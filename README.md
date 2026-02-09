@@ -4,26 +4,27 @@
 ## *Table of Contents*
 
 - [Project brief](#Projectbrief)
-- [Goal](#Goal)
+- [Objective](#Objective)
 - [Methodology](#Methodology)
+- [Tools](#Tools)
 - [DataModeling](#Data-Modeling)
-- [Processing](#Processing)
-- [Dashboard](#Dahboard)
+- [ProcessingAnalysis](#Processing-&-Analysis)
+- [Dashboard](#Dashboard)
 - [Findings](#Findings)
 - [SuspectElimination](#SuspectElimination)
-- [SRecommendations](#Recommendations)
+- [Recommendations](#Recommendations)
 - [Conclusion](#Conclusion)
 
 
 
 
-**Problem Statement**
+**Project brief**
 
 This report investigates the circumstances surrounding the Tenet Rice homicide, focusing on evidence collection, analysis, and interpretation to determine the sequence of events and potential responsible parties.
 
 
 
-#### Goal
+#### Objective
 
 The objective of this forensic report is to systematically analyze physical, digital, and testimonial evidence to reconstruct the events of the Tenet Rice homicide and provide an unbiased foundation for legal and investigative decision-making
 
@@ -49,9 +50,34 @@ Each suspect received a quantified suspicion score based on deviations from thei
 |---|---|
 |Power BI| dax measures, Power query |
 
+
 ## Data Modeling
 
+Datasets contains 4 tables; Suspect, CallRecords, AccessLog, ForensicEvent. All tables are modeled via One to Many relationships using the Suspect_ID column (PK) and Date column (PK)  Star flake schema. A customized CalendarTable, Activity table  for (event timeline analysis), and a customized measures table.
+
 ![Image](images/Data%20Modeling.PNG)
+
+
+#### Processing & Analysis
+
+- Consistent datatype format - Ensure datatypes is consistent across all tables to help prevent data breakage.
+- Duplicates removal - Ensures all duplicates records are eliminated.
+- EDA - Exploratory analysis was performed using statistical method to calculate needed metrics for report accuracy.
+- DAX - measures for report interactivity and dynamism
+
+
+**Forensic Method** Applied
+
+- CCTV footage records (For where, when
+- Digital forensic like call records (before or after)
+- Door Accessed (access attempt)
+
+**Comparative Analysis** 
+
+- 
+
+
+
 
 
 ### Dashboard
