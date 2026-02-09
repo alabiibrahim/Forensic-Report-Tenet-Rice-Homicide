@@ -1,5 +1,5 @@
 
-### INVESTIGATIVE FINDINGS — TENET RICE HOMICIDE
+### INVESTIGATIVE FINDINGS - TENET RICE HOMICIDE
 
 ## *Table of Contents*
 
@@ -54,6 +54,7 @@ Datasets contains 4 tables; Suspect, CallRecords, AccessLog, ForensicEvent. All 
 ![Image](images/Data%20Modeling.PNG)
 
 
+
 #### Processing & Analysis
 
 - Consistent datatype format - Ensure datatypes is consistent across all tables to help prevent data breakage.
@@ -62,35 +63,42 @@ Datasets contains 4 tables; Suspect, CallRecords, AccessLog, ForensicEvent. All 
 - DAX - measures for report interactivity and dynamism
 
 
-**Forensic Method** -Applied
+*Forensic Method* -Applied
 
 - CCTV footage records (For where, when
 - Digital forensic like call records (before or after)
 - Door Accessed (access attempt)
 
-**Comparative Analysis** 
+*Comparative Analysis* 
 
 - After/Before Event call, access.
 - Change in behavior activity
 - Surveillance
 
 
-### Dashboard
+
+### *Dashboard*
+
 
 ![image](images/T1.PNG)
+
 
 
 ![image](images/t2.PNG)
 
 
+
 ![image](images/t3.PNG)
+
 
 
 ![image](images/t4.PNG)
 
 
 
+
 ### Event Reconstruction
+
 
 Between the victim’s last confirmed sighting and the emergency call, building activity narrowed significantly to a small subset of individuals.
 
@@ -101,6 +109,7 @@ During this period:
 * Multiple individuals ceased activity immediately after the event window
 
 This pattern is inconsistent with routine workplace behaviour and consistent with a coordinated or intentional action period.
+
 
 
 ### Findings
@@ -126,6 +135,7 @@ The scoring model identified three behavioural markers strongly associated with 
 One individual displayed multiple markers simultaneously, Alex Shaw.
 
 
+
 ### Suspect Elimination
 
 The majority of suspects were eliminated for the following reasons:
@@ -137,7 +147,7 @@ The majority of suspects were eliminated for the following reasons:
 
 These individuals are statistically consistent with uninvolved actors or witnesses.
 
-#### Prime Suspect Determination
+*Prime Suspect Determination*
 
 One subject demonstrated a unique convergence of indicators:
 
@@ -148,6 +158,7 @@ One subject demonstrated a unique convergence of indicators:
 * Relationship category associated with elevated conflict probability.
 
 This combination of opportunity, capability, behavioural deviation and concealment behaviour produced the highest suspicion score among all subjects.
+
 
 
 #### RECOMMENDATIONS: 
@@ -161,6 +172,8 @@ This combination of opportunity, capability, behavioural deviation and concealme
 • Check for additional camera footage covering exit routes.
 
 • Perform digital forensics on the suspect’s phone few hours to event period.
+
+
 
 #### CONCLUSION:
 
