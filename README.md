@@ -38,6 +38,21 @@ Each suspect received a quantified suspicion score based on deviations from thei
 ![Image](images/Data%20Modeling.PNG)
 
 
+### Dashboard
+
+
+![image](images/t1.PNG)
+
+
+![image](images/t2.PNG)
+
+
+![image](images/t3.PNG)
+
+
+![image](images/t4.PNG)
+
+
 
 ### Event Reconstruction
 
