@@ -5,7 +5,7 @@
 
 - [Objective](#Objective)
 - [Methodology](#Methodology)
-- [DataModeling](#DataModeling)
+- [DataModeling](#Data-Modeling)
 - [Processing](#Processing)
 - [DashboardDesign](#DahboardDesign)
 - [Findings](#Findings)
@@ -32,6 +32,12 @@ All suspects were evaluated using a weighted behavioural scoring model built on 
 Each suspect received a quantified suspicion score based on deviations from their normal behaviour rather than overall activity totals.
 
 ---
+
+## Data Modeling
+
+![Image](images/Data%20Modeling.PNG)
+
+
 
 ### Event Reconstruction
 
