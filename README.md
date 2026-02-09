@@ -41,7 +41,7 @@ Each suspect received a quantified suspicion score based on deviations from thei
 ### Dashboard
 
 
-![image](images/t1.PNG)
+![image](images/T1.PNG)
 
 
 ![image](images/t2.PNG)
@@ -115,3 +115,29 @@ Based on quantified behavioural evidence rather than aggregate activity volume, 
 The determination is supported by converging independent indicators rather than a single anomalous metric, reducing the likelihood of coincidence.
 
 This report does not establish legal guilt, but establishes investigative priority with measurable analytical justification.
+
+
+
+## FINDINGS:
+ • The victim was last seen alive at 7:57pm and gunshot heard at 8:00pm.
+ • Call records show a call between the victim and the primary suspect Alex Shaw, shortly before the estimated time of death.
+ • Several failed access attempts to non-restricted areas, indicating suspicious motives.
+ • No forced entry was detected, suggesting the victim allowed entry to the attacker (Hotel staff).
+ • Suspect made a call immediately after event to the victim's former partner. Susan knight appeared as a staff and investor
+
+## RECOMMENDATIONS: 
+• Conduct a formal interrogation of the suspect focusing on the event time frame.
+• Verify the suspect’s alibi against phone tower and CCTV movement records.
+• Interview Individuals tagged as "witness" and "person of interest" they might have had involvement directly or indirectly.
+• Check for additional camera footage covering exit routes.
+• Perform digital forensics on the suspect’s phone few hours to event period.
+
+## CONCLUSION:
+
+• Based on the timeline correlation, location tracking, and call records, Alex Shaw was present at the crime scene at the estimated time of death.
+
+• The absence of forced entry and the communication between the victim and Alex Shaw shortly before the incident suggest the victim willingly met the suspect.
+
+• The attempts to non restricted areas indicates bad intentions. 
+
+Taken together, the evidence strongly supports the suspect’s involvement in the incident and justifies further legal investigation and interrogation.
