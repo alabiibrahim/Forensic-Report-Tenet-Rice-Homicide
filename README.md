@@ -28,33 +28,26 @@ This report investigates the circumstances surrounding the Tenet Rice homicide, 
 The objective of this forensic report is to systematically analyze physical, digital, and testimonial evidence to reconstruct the events of the Tenet Rice homicide and provide an unbiased foundation for legal and investigative decision-making
 
 
-
-
-### Dataset
-
-![dataset](datasets)
-
-
-
-#### Modeling
-
-
-
-
-
 ### Methodology
 
 All suspects were evaluated using a weighted behavioural scoring model built on four forensic indicators:
 
-1. **Opportunity** — physical presence and door access within the critical time window
-2. **Capability** — failed or forced access attempts indicating restricted-area targeting
-3. **Intent** — abnormal communication activity compared to personal baseline behaviour
-4. **Concealment Behaviour** — sudden silence or activity drop after the event
-5. **Motive Proxy** — relationship risk level to the victim
+1. **Opportunity:**: This is used to get knowledge of physical presence and door access within the critical time window
+2. **Capability:**  failed or forced access attempts indicating restricted-area targeting
+3. **Intent:**  abnormal communication activity compared to personal baseline behaviour
+4. **Concealment Behaviour:**  sudden silence or activity drop after the event
+5. **Confidence:** Calculated score given to individuals based on behavioral activities to helps in investigative findings.
+6. **Motive Proxy:**  relationship risk level to the victim
 
 Each suspect received a quantified suspicion score based on deviations from their normal behaviour rather than overall activity totals.
 
----
+
+#### Tools
+
+|---|---|
+|Tools | Purpose |
+|---|---|
+|Power BI- (dax, Power query) |
 
 ## Data Modeling
 
