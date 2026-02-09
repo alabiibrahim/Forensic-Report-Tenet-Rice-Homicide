@@ -44,7 +44,7 @@ Each suspect received a quantified suspicion score based on deviations from thei
 
 | Tools | Purpose |Dataset|
 |---|---|---|
-|Power BI| dax measures, Power query |![data](datasets) |
+|Power BI| dax measures, Power query |![data](https://github.com/alabiibrahim/Forensic-Report-Tenet-Rice-Homicide/tree/6bcb81e4bd36d8bb3134ef22f7a6c019e84429a3/Datasets) |
 
 
 ## Data Modeling
