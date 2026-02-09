@@ -44,10 +44,10 @@ Each suspect received a quantified suspicion score based on deviations from thei
 
 #### Tools
 
+
+| Tools | Purpose |
 |---|---|
-|Tools | Purpose |
-|---|---|
-|Power BI- (dax, Power query) |
+|Power BI| dax measures, Power query |
 
 ## Data Modeling
 
