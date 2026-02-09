@@ -7,12 +7,12 @@
 - [Objective](#Objective)
 - [Methodology](#Methodology)
 - [Tools](#Tools)
-- [DataModeling](#Data-Modeling)
-- [ProcessingAnalysis](#Processing-&-Analysis)
+- [Data Modeling](#Data-Modeling)
+- [Processing Analysis](#Processing-&-Analysis)
 - [Dashboard](#Dashboard)
-- [EventReconstruction](Event-Reconstruction)
+- [Event Reconstruction](Event-Reconstruction)
 - [Findings](#Findings)
-- [SuspectElimination](#SuspectElimination)
+- [Suspect Elimination](#SuspectElimination)
 - [Recommendations](#Recommendations)
 - [Conclusion](#Conclusion)
 
@@ -97,6 +97,8 @@ Datasets contains 4 tables; Suspect, CallRecords, AccessLog, ForensicEvent. All 
 
 
 
+
+
 ### Event Reconstruction
 
 
@@ -109,6 +111,7 @@ During this period:
 * Multiple individuals ceased activity immediately after the event window
 
 This pattern is inconsistent with routine workplace behaviour and consistent with a coordinated or intentional action period.
+
 
 
 
