@@ -10,6 +10,7 @@
 - [DataModeling](#Data-Modeling)
 - [ProcessingAnalysis](#Processing-&-Analysis)
 - [Dashboard](#Dashboard)
+- [EventReconstruction](Event-Reconstruction)
 - [Findings](#Findings)
 - [SuspectElimination](#SuspectElimination)
 - [Recommendations](#Recommendations)
@@ -21,14 +22,11 @@
 This report investigates the circumstances surrounding the Tenet Rice homicide, focusing on evidence collection, analysis, and interpretation to determine the sequence of events and potential responsible parties.
 
 
-
 #### Objective
-
 The objective of this forensic report is to systematically analyze physical, digital, and testimonial evidence to reconstruct the events of the Tenet Rice homicide and provide an unbiased foundation for legal and investigative decision-making
 
 
 ### Methodology
-
 All suspects were evaluated using a weighted behavioural scoring model built on four forensic indicators:
 
 1. **Opportunity:**: This is used to get knowledge of physical presence and door access within the critical time window
@@ -44,9 +42,9 @@ Each suspect received a quantified suspicion score based on deviations from thei
 #### Tools
 
 
-| Tools | Purpose |
-|---|---|
-|Power BI| dax measures, Power query |
+| Tools | Purpose |Dataset|
+|---|---|---|
+|Power BI| dax measures, Power query |![data](datasets) |
 
 
 ## Data Modeling
