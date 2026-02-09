@@ -7,10 +7,10 @@
 - [Methodology](#Methodology)
 - [DataModeling](#Data-Modeling)
 - [Processing](#Processing)
-- [DashboardDesign](#DahboardDesign)
+- [Dashboard](#Dahboard)
 - [Findings](#Findings)
 - [SuspectElimination](#SuspectElimination)
-- [SuspectDetermination](#SuspectDetermination)
+- [SRecommendations](#Recommendations)
 - [Conclusion](#Conclusion)
 
 
@@ -118,21 +118,32 @@ This report does not establish legal guilt, but establishes investigative priori
 
 
 
-## FINDINGS:
+### FINDINGS:
+
  • The victim was last seen alive at 7:57pm and gunshot heard at 8:00pm.
+ 
  • Call records show a call between the victim and the primary suspect Alex Shaw, shortly before the estimated time of death.
+
  • Several failed access attempts to non-restricted areas, indicating suspicious motives.
+
  • No forced entry was detected, suggesting the victim allowed entry to the attacker (Hotel staff).
+
  • Suspect made a call immediately after event to the victim's former partner. Susan knight appeared as a staff and investor
 
-## RECOMMENDATIONS: 
+
+### RECOMMENDATIONS: 
+
 • Conduct a formal interrogation of the suspect focusing on the event time frame.
+
 • Verify the suspect’s alibi against phone tower and CCTV movement records.
+
 • Interview Individuals tagged as "witness" and "person of interest" they might have had involvement directly or indirectly.
+
 • Check for additional camera footage covering exit routes.
+
 • Perform digital forensics on the suspect’s phone few hours to event period.
 
-## CONCLUSION:
+### CONCLUSION:
 
 • Based on the timeline correlation, location tracking, and call records, Alex Shaw was present at the crime scene at the estimated time of death.
 
