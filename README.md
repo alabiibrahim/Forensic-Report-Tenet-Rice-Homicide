@@ -16,8 +16,6 @@
 - [Conclusion](#Conclusion)
 
 
-
-
 **Project brief**
 
 This report investigates the circumstances surrounding the Tenet Rice homicide, focusing on evidence collection, analysis, and interpretation to determine the sequence of events and potential responsible parties.
@@ -53,7 +51,7 @@ Each suspect received a quantified suspicion score based on deviations from thei
 
 ## Data Modeling
 
-Datasets contains 4 tables; Suspect, CallRecords, AccessLog, ForensicEvent. All tables are modeled via One to Many relationships using the Suspect_ID column (PK) and Date column (PK)  Star flake schema. A customized CalendarTable, Activity table  for (event timeline analysis), and a customized measures table.
+Datasets contains 4 tables; Suspect, CallRecords, AccessLog, ForensicEvent. All tables are modeled via One to Many relationships using the Suspect_ID column (PK) and Date column (PK)  Star flake schema. A customized CalendarTable, ActivityLog table  for (event timeline analysis), and a customized measures table.
 
 ![Image](images/Data%20Modeling.PNG)
 
@@ -66,7 +64,7 @@ Datasets contains 4 tables; Suspect, CallRecords, AccessLog, ForensicEvent. All 
 - DAX - measures for report interactivity and dynamism
 
 
-**Forensic Method** Applied
+**Forensic Method** -Applied
 
 - CCTV footage records (For where, when
 - Digital forensic like call records (before or after)
@@ -74,14 +72,12 @@ Datasets contains 4 tables; Suspect, CallRecords, AccessLog, ForensicEvent. All 
 
 **Comparative Analysis** 
 
-- 
-
-
-
+- After/Before Event call, access.
+- Change in behavior activity
+- Surveillance
 
 
 ### Dashboard
-
 
 ![image](images/T1.PNG)
 
@@ -108,73 +104,56 @@ During this period:
 
 This pattern is inconsistent with routine workplace behaviour and consistent with a coordinated or intentional action period.
 
----
 
-### Behavioural Findings
+### Findings
 
 The scoring model identified three behavioural markers strongly associated with involvement:
 
-• Presence at secured locations during the event
-• Access attempts inconsistent with job role
-• Abrupt behavioural silence following the incident
+ • Presence at secured locations during the event.
+ 
+ • Access attempts inconsistent with job role
+ 
+ • Abrupt behavioural silence following the incident
+ 
+ • The victim was last seen alive at 7:57pm and gunshot heard at 8:00pm.
+ 
+ • Call records show a call between the victim and the primary suspect shortly before the estimated time of death.
 
-Most individuals displayed only one marker or none.
-One individual displayed multiple markers simultaneously.
+ • Failed access attempts to non-restricted areas, indicating suspicious motives.
 
----
+ • No forced entry was detected, suggesting the victim allowed entry to the attacker (Hotel staff).
+
+ • Suspect made a call immediately after event to the victim's former partner. Susan knight appeared as a staff and investor.
+
+One individual displayed multiple markers simultaneously, Alex Shaw.
+
 
 ### Suspect Elimination
 
 The majority of suspects were eliminated for the following reasons:
 
-* No presence within the event window
-* Behaviour consistent with normal baseline patterns
-* No restricted-area interaction
-* Continuous communication activity after the incident (indicating normal routine)
+* No presence within the event window.
+* Behaviour consistent with normal baseline patterns.
+* No restricted-area interaction.
+* Continuous communication activity after the incident (indicating normal routine).
 
 These individuals are statistically consistent with uninvolved actors or witnesses.
 
----
-
-### Prime Suspect Determination
+#### Prime Suspect Determination
 
 One subject demonstrated a unique convergence of indicators:
 
-* Verified activity within the critical time window
-* Repeated restricted-area access behaviour
-* Communication pattern deviation from baseline
-* Immediate behavioural silence after the incident
-* Relationship category associated with elevated conflict probability
+* Verified activity within the critical time window.
+* Repeated non-restricted-area access behaviour.
+* Communication pattern deviation from baseline.
+* Immediate behavioural silence after the incident.
+* Relationship category associated with elevated conflict probability.
 
 This combination of opportunity, capability, behavioural deviation and concealment behaviour produced the highest suspicion score among all subjects.
 
----
 
-### Conclusion
-
-Based on quantified behavioural evidence rather than aggregate activity volume, the analysis identifies the top-ranked individual as the **most probable perpetrator**.
-
-The determination is supported by converging independent indicators rather than a single anomalous metric, reducing the likelihood of coincidence.
-
-This report does not establish legal guilt, but establishes investigative priority with measurable analytical justification.
-
-
-
-### FINDINGS:
-
- • The victim was last seen alive at 7:57pm and gunshot heard at 8:00pm.
+#### RECOMMENDATIONS: 
  
- • Call records show a call between the victim and the primary suspect Alex Shaw, shortly before the estimated time of death.
-
- • Several failed access attempts to non-restricted areas, indicating suspicious motives.
-
- • No forced entry was detected, suggesting the victim allowed entry to the attacker (Hotel staff).
-
- • Suspect made a call immediately after event to the victim's former partner. Susan knight appeared as a staff and investor
-
-
-### RECOMMENDATIONS: 
-
 • Conduct a formal interrogation of the suspect focusing on the event time frame.
 
 • Verify the suspect’s alibi against phone tower and CCTV movement records.
@@ -185,7 +164,7 @@ This report does not establish legal guilt, but establishes investigative priori
 
 • Perform digital forensics on the suspect’s phone few hours to event period.
 
-### CONCLUSION:
+#### CONCLUSION:
 
 • Based on the timeline correlation, location tracking, and call records, Alex Shaw was present at the crime scene at the estimated time of death.
 
