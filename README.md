@@ -3,7 +3,8 @@
 
 ## *Table of Contents*
 
-- [Objective](#Objective)
+- [Project brief](#Projectbrief)
+- [Goal](#Goal)
 - [Methodology](#Methodology)
 - [DataModeling](#Data-Modeling)
 - [Processing](#Processing)
@@ -14,10 +15,21 @@
 - [Conclusion](#Conclusion)
 
 
-**Problem**
-To determine the individual most likely responsible for the death of Tenet Rice using behavioural, communication and access-control evidence recorded between the victim’s last confirmed sighting and the emergency call.
 
----
+
+**Problem Statement**
+
+This report investigates the circumstances surrounding the Tenet Rice homicide, focusing on evidence collection, analysis, and interpretation to determine the sequence of events and potential responsible parties.
+
+
+
+#### Goal
+
+The objective of this forensic report is to systematically analyze physical, digital, and testimonial evidence to reconstruct the events of the Tenet Rice homicide and provide an unbiased foundation for legal and investigative decision-making
+
+
+
+
 ### Dataset
 
 ![dataset](datasets)
