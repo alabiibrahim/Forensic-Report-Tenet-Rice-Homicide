@@ -1,17 +1,17 @@
 
 ### INVESTIGATIVE FINDINGS — TENET RICE HOMICIDE
 
-## **Table of Contents*
+## *Table of Contents*
 
--[Objective](#Objective)
--[Methodology](#Methodology)
--[DataModeling](#DataModeling)
--[Processing](#Processing)
--[DashboardDesign](#DahboardDesign)
--[Findings](#Findings)
--[SuspectElimination](#SuspectElimination)
--[SuspectDetermination](#SuspectDetermination)
--[Conclusion](#Conclusion)
+- [Objective](#Objective)
+- [Methodology](#Methodology)
+- [DataModeling](#DataModeling)
+- [Processing](#Processing)
+- [DashboardDesign](#DahboardDesign)
+- [Findings](#Findings)
+- [SuspectElimination](#SuspectElimination)
+- [SuspectDetermination](#SuspectDetermination)
+- [Conclusion](#Conclusion)
 
 
 **Objective**
