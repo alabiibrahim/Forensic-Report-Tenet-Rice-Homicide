@@ -1,7 +1,18 @@
-# Forensic-Report-Tenet-Rice-Homicide
-
 
 ### INVESTIGATIVE FINDINGS — TENET RICE HOMICIDE
+
+## **Table of Contents*
+
+-[Objective](#Objective)
+-[Methodology](#Methodology)
+-[DataModeling](#DataModeling)
+-[Processing](#Processing)
+-[DashboardDesign](#DahboardDesign)
+-[Findings](#Findings)
+-[SuspectElimination](#SuspectElimination)
+-[SuspectDetermination](#SuspectDetermination)
+-[Conclusion](#Conclusion)
+
 
 **Objective**
 To determine the individual most likely responsible for the death of Tenet Rice using behavioural, communication and access-control evidence recorded between the victim’s last confirmed sighting and the emergency call.
