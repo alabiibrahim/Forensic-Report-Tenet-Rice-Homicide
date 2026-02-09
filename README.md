@@ -14,10 +14,21 @@
 - [Conclusion](#Conclusion)
 
 
-**Objective**
+**Problem**
 To determine the individual most likely responsible for the death of Tenet Rice using behavioural, communication and access-control evidence recorded between the victim’s last confirmed sighting and the emergency call.
 
 ---
+### Dataset
+
+![dataset](datasets)
+
+
+
+#### Modeling
+
+
+
+
 
 ### Methodology
 
