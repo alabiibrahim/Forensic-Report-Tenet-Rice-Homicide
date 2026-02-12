@@ -29,7 +29,7 @@ The objective of this forensic report is to systematically analyze physical, dig
 ### Methodology
 All suspects were evaluated using a weighted behavioural scoring model built on four forensic indicators:
 
-1. **Opportunity:**: This is used to get knowledge of physical presence and door access within the critical time window
+1. **Opportunity:** This is used to get knowledge of physical presence and door access within the critical time window
 2. **Capability:**  failed or forced access attempts indicating restricted-area targeting
 3. **Intent:**  abnormal communication activity compared to personal baseline behaviour
 4. **Concealment Behaviour:**  sudden silence or activity drop after the event
@@ -150,7 +150,7 @@ The majority of suspects were eliminated for the following reasons:
 
 These individuals are statistically consistent with uninvolved actors or witnesses.
 
-*Prime Suspect Determination*
+##### *Prime Suspect Determination*
 
 One subject demonstrated a unique convergence of indicators:
 
